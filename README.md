@@ -1,4 +1,4 @@
-# NodeJS / Socket.io Chat Room Demo
+# NodeJS / Socket.io Whatsapp Clone Demo
 
 ### Get Started:
 * run `npm install` to install dependencies
